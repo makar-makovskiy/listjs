@@ -26,4 +26,4 @@
 
 ## Ссылка на опубликованную версию
 
-[GitHub Pages](https://ваш-username.github.io/ваш-репозиторий)
+[GitHub Pages](https://makar-makovskiy.github.io/listjs/)
