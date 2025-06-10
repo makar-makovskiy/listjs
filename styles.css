@@ -28,6 +28,10 @@ body {
     background: none;
 }
 
+#button id {
+    color: #000000;
+}
+
 #taskList {
     padding: 0;
     list-style: none;
